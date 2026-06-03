@@ -33,13 +33,13 @@ AI-powered resume builder that helps create ATS-friendly resumes.
 
 Modern responsive restaurant website built using React and Tailwind CSS.
 
+### 🚀 AI Content Repurposer
+
+AI-powered web application that converts a topic, article, or text into platform-specific content including Instagram posts, LinkedIn posts, Twitter/X threads, and blog articles. Built using Flask, Groq AI, and modern responsive UI.
+
 ### 🌐 Portfolio Website
 
 Personal portfolio website showcasing projects, skills and experience.
-
-### 🧮 Calculator App
-
-Responsive calculator built using HTML, CSS and JavaScript.
 
 ---
 
